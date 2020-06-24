@@ -9,4 +9,17 @@ nose cmo esta paso
 como esra
 =======
 hola como estas
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
+=======
+
+-----------------------
+----------------------
+hola como estas qur tal va tu vida
+loco
+--------------
+-------------
+>>>>>>> b8781fe6d42c6f2ebbf82cb1a9f24f0e5e8e77d7
+ aqui mandamos el repositorio loval al remoto
+asi cherevere
+no me falles

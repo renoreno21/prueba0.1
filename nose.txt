@@ -5,4 +5,8 @@ git comit esto es como lmv
 
 nose cmo esta paso
 
+<<<<<<< HEAD
 como esra
+=======
+hola como estas
+>>>>>>> refs/remotes/origin/master
